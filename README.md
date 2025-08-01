@@ -13,13 +13,16 @@ I've cultivated a deep understanding of computer science through extensive self-
 |-----------------------------------------------|----------------------------|
 | Playbook Implementation and Report            | <a href="https://github.com/mgonzalez-unr/Playbook-Alert-Ticket">Playbook Report</a>|
 | Vulnerability Assessment Reporting            | <a href="https://github.com/mgonzalez-unr/Vulnerability_Assessment_Report">Vulnerability Assessment<a/>|
-| Access Control and Risk Register              | <a href="https://google.com">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Access Control and Risk Register              | <a href="https://github.com/mgonzalez-unr/Access-Control-and-Risk-Register">Access Control and Risk Register</a>|
+| Audit Assessment                              | <a href="https://google.com">Detection Lab</a>|
+| DoS Attack                                    | <a
+| File Permissions with Linux                   | <a
+| Filters with SQL                              | <a
+| Security Automation with SOAR                 | 
+| Network Traffic Monitoring and Attack Detection | 
+| Incident Response Planning and Execution      | 
+| Scripting and Automation for Threat Mitigation |
+ 
 
 ## Tools
 
