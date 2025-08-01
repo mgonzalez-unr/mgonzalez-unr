@@ -11,7 +11,7 @@ I've cultivated a deep understanding of computer science through extensive self-
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Playbook Implementation and Report            | SOC Automation Lab|
+| Playbook Implementation and Report            | <a href="https://github.com/mgonzalez-unr/Playbook-Alert-Ticket">Playbook Report</a>|
 | Vulnerability Assessment Reporting            | SOC Automation Lab|
 
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
