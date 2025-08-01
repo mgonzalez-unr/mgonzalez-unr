@@ -12,8 +12,8 @@ I've cultivated a deep understanding of computer science through extensive self-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Playbook Implementation and Report            | <a href="https://github.com/mgonzalez-unr/Playbook-Alert-Ticket">Playbook Report</a>|
-| Vulnerability Assessment Reporting            | SOC Automation Lab|
-
+| Vulnerability Assessment Reporting            | <a href="https://github.com/mgonzalez-unr/Vulnerability_Assessment_Report">Vulnerability Assessment<a/>|
+| Access Control and Risk Register              | <a href="https://google.com">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
