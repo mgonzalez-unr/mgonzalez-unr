@@ -16,8 +16,8 @@ I've cultivated a deep understanding of computer science through extensive self-
 | Access Control and Risk Register              | <a href="https://github.com/mgonzalez-unr/Access-Control-and-Risk-Register">Access Control and Risk Register</a>|
 | Audit Assessment                              | <a href="https://google.com">Detection Lab</a>|
 | DoS Attack                                    | <a href="https://github.com/mgonzalez-unr/Dos-Attack-Incident">DoS Attack</a>
-| File Permissions with Linux                   | <a href="">File Permissions with Linux</a>
-| Filters with SQL                              | <a href="">Filters with SQL<a/>
+| File Permissions with Linux                   | <a href="https://github.com/mgonzalez-unr/File-Permission-LINUX">File Permissions with Linux</a>
+| Filters with SQL                              | <a href="https://github.com/mgonzalez-unr/Filters-with-SQL">Filters with SQL<a/>
 | Security Automation with SOAR                 | 
 | Network Traffic Monitoring and Attack Detection | 
 | Incident Response Planning and Execution      | 
@@ -31,20 +31,12 @@ I've cultivated a deep understanding of computer science through extensive self-
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### Cloud
@@ -53,7 +45,3 @@ I've cultivated a deep understanding of computer science through extensive self-
   
 </div>
 
-
-## Projects
-- Detection Lab
-- SOC Automation Project
