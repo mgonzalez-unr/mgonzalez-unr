@@ -1,17 +1,13 @@
-# Hello, I'm Martin 
+# Hello, I'm Martin G 
 <a href="www.linkedin.com/in/martin-gonzalez-78949b374"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems with extensive background in regulatory and compliance standards.
 
 ## Objective
-[Provide Objective]
 
-My history with computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a team as a security engineer.
+I've cultivated a deep understanding of computer science through extensive self-teaching, which has fueled my passion for cybersecurity. I'm eager to transition into this field and contribute to a team as a security engineer, leveraging my foundational knowledge to solve real-world challenges.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +19,7 @@ My history with computer science has led me to develop a passion for cybersecuri
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -51,15 +47,6 @@ My history with computer science has led me to develop a passion for cybersecuri
   
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 - Detection Lab
