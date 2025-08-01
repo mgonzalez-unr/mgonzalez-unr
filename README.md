@@ -15,9 +15,9 @@ I've cultivated a deep understanding of computer science through extensive self-
 | Vulnerability Assessment Reporting            | <a href="https://github.com/mgonzalez-unr/Vulnerability_Assessment_Report">Vulnerability Assessment<a/>|
 | Access Control and Risk Register              | <a href="https://github.com/mgonzalez-unr/Access-Control-and-Risk-Register">Access Control and Risk Register</a>|
 | Audit Assessment                              | <a href="https://google.com">Detection Lab</a>|
-| DoS Attack                                    | <a
-| File Permissions with Linux                   | <a
-| Filters with SQL                              | <a
+| DoS Attack                                    | <a href="https://github.com/mgonzalez-unr/Dos-Attack-Incident">DoS Attack</a>
+| File Permissions with Linux                   | <a href="">File Permissions with Linux</a>
+| Filters with SQL                              | <a href="">Filters with SQL<a/>
 | Security Automation with SOAR                 | 
 | Network Traffic Monitoring and Attack Detection | 
 | Incident Response Planning and Execution      | 
